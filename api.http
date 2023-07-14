@@ -1,0 +1,11 @@
+GET http://localhost:3002
+
+###
+GET http://localhost:3002/wallet-assets
+
+###
+GET http://localhost:3002/wallets/wallet1/assets
+
+###
+
+GET http://localhost:3001/api/wallets/wallet1/assets
